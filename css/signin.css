@@ -185,7 +185,7 @@ form + p {
 @media (min-width:100px) and (max-width:499px){
     body {
         width: auto;
-        height: 50vh;
+        height: auto;
     }
     #login-window {
         width: 70vw;
