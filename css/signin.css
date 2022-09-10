@@ -183,12 +183,14 @@ form + p {
 }
 
 @media (min-width:100px) and (max-width:499px){
-    body {
+    /*body {
         width: auto;
         height: auto;
     }
+    */
     #login-window {
         width: 70vw;
+        height: 70vh;
     }
     .social button {
         padding: 0.3rem 0.8rem;
