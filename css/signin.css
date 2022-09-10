@@ -190,7 +190,7 @@ form + p {
     */
     #login-window {
         width: 70vw;
-        height: 70vh;
+        height: 50vh;
     }
     .social button {
         padding: 0.3rem 0.8rem;
